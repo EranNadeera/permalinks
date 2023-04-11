@@ -1,0 +1,2 @@
+# permalinks
+web practical
